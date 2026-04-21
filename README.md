@@ -168,6 +168,14 @@ jupyter notebook VisionZero_Colab.ipynb
 
 ---
 
+# Contact
+* Vikas G J
+* Email: vikasgjv@gmail.com
+* LinkedIn: linkedin.com/in/vikas-gj-979251296
+
+
+⭐ Star this repo if you find it useful!
+
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
