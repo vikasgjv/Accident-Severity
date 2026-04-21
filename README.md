@@ -1,6 +1,6 @@
 # 🚦 VisionZero — Accident Severity Predictor
 
-> Urban Infrastructure & Public Safety | Hackathon Project | Estimated Time: 6–8 hours
+> Urban Infrastructure & Public Safety | Hackathon Project 
 
 Traffic accidents are rarely caused by a single factor — they are the tragic result of intersecting variables ranging from road conditions and lighting to driver experience and vehicle defects. **VisionZero** is a robust predictive system that forecasts accident severity from post-crash report data, navigating complex, messy, real-world categorical data to find the signal in the noise.
 
